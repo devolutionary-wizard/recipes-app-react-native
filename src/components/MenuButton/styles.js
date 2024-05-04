@@ -19,7 +19,8 @@ const styles = StyleSheet.create({
   btnText: {
     fontSize: 16,
     marginLeft: 10,
-    marginTop: 2
+    marginTop: 2,
+    textTransform: 'capitalize'
   }
 });
 
